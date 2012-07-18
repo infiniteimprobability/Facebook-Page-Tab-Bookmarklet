@@ -1,0 +1,1 @@
+javascript:var appid = prompt('Enter App ID:'); if(typeof appid != "undefined" && appid != "" && appid != null) {window.open('https://www.facebook.com/dialog/pagetab?app_id='+appid+'&next=http://developer.facebook.com/apps');}
